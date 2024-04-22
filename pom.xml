@@ -73,9 +73,7 @@
 						</exclude>
 					</excludes>
 				</configuration>
-				<configuration>
-					<finalName>Uber</finalName>
-					</configuration>
+				
 			</plugin>
 		</plugins>
 	</build>
